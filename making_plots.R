@@ -1,3 +1,4 @@
+library(latex2exp)
 
 load(".Rdata")
 
