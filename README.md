@@ -6,4 +6,4 @@ a Department of Mathematics, College of Arts & Sciences, University of Louisvill
 b Christina Lee Brown Envirome Institute, School of Medicine, University of Louisville, Louisville, KY 40202, USA 
 c Department of Earth and Environmental Engineering, Columbia University, 500 W. 120th St., New York, NY, 10027, USA 
 
-*Correspondence to:dan.han@louisville.edu, Department of Mathematics, University of Louisville, Louisville, KY 40202, USA.
+For the algorithm and code question, correspondence to:dan.han@louisville.edu, Department of Mathematics, University of Louisville, Louisville, KY 40202, USA.
