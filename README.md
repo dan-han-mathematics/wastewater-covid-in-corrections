@@ -7,3 +7,5 @@ b Christina Lee Brown Envirome Institute, School of Medicine, University of Loui
 c Department of Earth and Environmental Engineering, Columbia University, 500 W. 120th St., New York, NY, 10027, USA 
 
 For the algorithm and code question, correspondence to:dan.han@louisville.edu, Department of Mathematics, University of Louisville, Louisville, KY 40202, USA.
+
+For citation: DOI:10.5281/zenodo.11622754
