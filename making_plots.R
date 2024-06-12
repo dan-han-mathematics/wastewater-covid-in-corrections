@@ -1,9 +1,4 @@
-wd <- c("C:/Users/pamli/OneDrive - University of Louisville/Pamela's topic",
-        "/COVID models/Wastewater correction/R code/")
 
-library(latex2exp)
-
-setwd(paste0(wd[1],wd[2],"2023.06.17_Pamela/new_model_v3"))
 load(".Rdata")
 
 setwd("./plots")
